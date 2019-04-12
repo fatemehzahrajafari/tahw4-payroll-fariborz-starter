@@ -28,7 +28,7 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 
 # Example:
 <div dir="rtl" align="right">
- برای مثال در روز دوشنبه کارمندی که در روز 500 دقیقه کار کرده چه مقدار باید در پایان روز حقوق دریافت کند. 
+ برای مثال در روز دوشنبه کارمندی که 500 دقیقه کار کرده چه مقدار باید در پایان روز حقوق دریافت کند. 
 </div>
 
 
