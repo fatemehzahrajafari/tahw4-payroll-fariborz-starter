@@ -9,7 +9,7 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 # Description
 
 
-<alt dir="rtl" align="right">
+<div dir="rtl" align="right">
 
 
 فریبرز بعد از انجام دادن تکلیف های درس برنامه سازی پیشرفته‌اش و پیاده سازی تکلیف های بازگشتی، توانسته مدیر یک شرکت برنامه نویسی شود! او تازه به این نتیجه رسیده که تمرین‌هایی که به او داده شده، او را به این جایگاه رسانده است! (مثل فریبرز باشیم)
@@ -24,4 +24,4 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 
 
 
-</alt>
+</div>
