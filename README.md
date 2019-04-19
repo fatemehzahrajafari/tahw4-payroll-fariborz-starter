@@ -3,7 +3,7 @@
 
 [![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
 
-YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<YOUR_STUDENT_ID>
+YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<9725743>
 
 
 # Description
